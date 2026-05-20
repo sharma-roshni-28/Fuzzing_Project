@@ -1,0 +1,56 @@
+=================================
+Input: CRASH
+Enter Input: Crash Detected: division by zero
+Enter Input: 
+=================================
+Input: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Enter Input: Crash Detected: Buffer Overflow Detected
+Enter Input: 
+=================================
+Input: 123456789012345678901234567890
+Enter Input: Crash Detected: Buffer Overflow Detected
+Enter Input: 
+=================================
+Input: 1Lf2NLb5b5CcNo7CxsC8EXOev6kjIUhP6a
+Enter Input: Crash Detected: Buffer Overflow Detected
+Enter Input: 
+=================================
+Input: IIU9vZKYwLpQ10HtwJHXiIXSV
+Enter Input: Crash Detected: Buffer Overflow Detected
+Enter Input: 
+=================================
+Input: 712kZTv5kjjd3NFmTJPfkeCsmK
+Enter Input: Crash Detected: Buffer Overflow Detected
+Enter Input: 
+=================================
+Input: h0PXC3QTkpHrxQrCXfRHbWvei2CjK3j
+Enter Input: Crash Detected: Buffer Overflow Detected
+Enter Input: 
+=================================
+Input: CONmSu1qjcFb2FvUZwjTvvRbRSl4
+Enter Input: Crash Detected: Buffer Overflow Detected
+Enter Input: 
+=================================
+Input: cyntblzrY8WxTu6BNb6Mg7kzOKjW
+Enter Input: Crash Detected: Buffer Overflow Detected
+Enter Input: 
+=================================
+Input: vZlz3mjSGDdpizKGjmUU0uep
+Enter Input: Crash Detected: Buffer Overflow Detected
+Enter Input: 
+=================================
+Input: QyCRHa4OhyEwnuw4nj4aGP
+Enter Input: Crash Detected: Buffer Overflow Detected
+Enter Input: 
+=================================
+Input: CdRCm85h5d3miHGV6gnWX6kTzC
+Enter Input: Crash Detected: Buffer Overflow Detected
+Enter Input: 
+=================================
+Input: Z5034vOfPrgxp9QTSSfAsUYZdQ
+Enter Input: Crash Detected: Buffer Overflow Detected
+Enter Input: 
+=================================
+Input: mOq94G7or2ssnR2O1OysNsopf196nQgOc
+Enter Input: Crash Detected: Buffer Overflow Detected
+Enter Input: 
