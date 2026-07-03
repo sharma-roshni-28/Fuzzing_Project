@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Fuzzing Security Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🔒 FUZZ TESTING SECURITY DASHBOARD</h1>
+
+    <!-- DASHBOARD CARDS -->
+    <div class="cards">
+
+        <div class="card">
+            <h2>Total Tests</h2>
+            <h1>{{ tests }}</h1>
+        </div>
+
+        <div class="card red">
+            <h2>Vulnerabilities</h2>
+            <h1>{{ total }}</h1>
+        </div>
+
+        <div class="card green">
+            <h2>Safe Inputs</h2>
+            <h1>{{ safe }}</h1>
+        </div>
+
+        <div class="card blue">
+            <h2>Status</h2>
+            <h3>Completed ✔</h3>
+        </div>
+
+    </div>
+
+    <!-- BUTTONS -->
+    <a href="/run">
+        <button>▶ Run Fuzzer</button>
+    </a>
+
+    <a href="/download">
+        <button>📥 Download Report</button>
+    </a>
+
+    <!-- CRASH LOGS -->
+    <h2>Crash Logs</h2>
+    <pre>{{ logs }}</pre>
+
+    <!-- REPORT -->
+    <h2>Final Report</h2>
+    <pre>{{ report }}</pre>
+
+    <div class="footer">
+        <hr>
+        Developed by <b>Roshni Sharma</b><br>
+        Minor Project 2026
+    </div>
+
+</div>
+
+</body>
+</html>

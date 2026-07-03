@@ -2,7 +2,7 @@
 FUZZ TESTING REPORT
 ===================
 
-Total Vulnerabilities Found: 42
+Total Vulnerabilities Found: 46
 
 Detailed Logs:
 ----------------
@@ -20,47 +20,52 @@ Input: 123456789012345678901234567890
 Enter Input: Crash Detected: Buffer Overflow Detected
 Enter Input: 
 =================================
-Input: 1Lf2NLb5b5CcNo7CxsC8EXOev6kjIUhP6a
+Input: SzIZERaL1E7klJnvN2pdGTJUreoUSzNd2IzhQ
 Enter Input: Crash Detected: Buffer Overflow Detected
 Enter Input: 
 =================================
-Input: IIU9vZKYwLpQ10HtwJHXiIXSV
+Input: ivx04yerJFhHe5zDSdxoaVBf4
 Enter Input: Crash Detected: Buffer Overflow Detected
 Enter Input: 
 =================================
-Input: 712kZTv5kjjd3NFmTJPfkeCsmK
+Input: WCOo9r4lEhLUxKbDNHXM74Gr8zAOkjX
 Enter Input: Crash Detected: Buffer Overflow Detected
 Enter Input: 
 =================================
-Input: h0PXC3QTkpHrxQrCXfRHbWvei2CjK3j
+Input: 8PUWq7COjEhoWHU0ukb9vwR92Si
 Enter Input: Crash Detected: Buffer Overflow Detected
 Enter Input: 
 =================================
-Input: CONmSu1qjcFb2FvUZwjTvvRbRSl4
+Input: bm1kb3mHN4u5j5gB4tmIHo
 Enter Input: Crash Detected: Buffer Overflow Detected
 Enter Input: 
 =================================
-Input: cyntblzrY8WxTu6BNb6Mg7kzOKjW
+Input: 5TdwEpX0ysizyp29QremI6hNHq
 Enter Input: Crash Detected: Buffer Overflow Detected
 Enter Input: 
 =================================
-Input: vZlz3mjSGDdpizKGjmUU0uep
+Input: iYmLRomYcIanObwabKTaA2KhPCNrxBxXW
 Enter Input: Crash Detected: Buffer Overflow Detected
 Enter Input: 
 =================================
-Input: QyCRHa4OhyEwnuw4nj4aGP
+Input: ljMQB3naKJGw6vEUOKiZZuCPXkQo5x40y
+Enter Input: Crash Detected: Buffer Overflow Detected
+Enter Input: 
+Input: 
+=================================
+Input: CBzIWZSKKbWeKYXp8eInJRvKY43ePrG5KgOsz6Qi
+Enter Input: Crash Detected: Buffer Overflow Detected
+Enter Input: 
+========
+Input: 405HDpvcvSqMVKSLAAOKSop
 Enter Input: Crash Detected: Buffer Overflow Detected
 Enter Input: 
 =================================
-Input: CdRCm85h5d3miHGV6gnWX6kTzC
+Input: EF9n4dFLEPgWrbOJG1zD8ZXeq33
 Enter Input: Crash Detected: Buffer Overflow Detected
 Enter Input: 
 =================================
-Input: Z5034vOfPrgxp9QTSSfAsUYZdQ
-Enter Input: Crash Detected: Buffer Overflow Detected
-Enter Input: 
-=================================
-Input: mOq94G7or2ssnR2O1OysNsopf196nQgOc
+Input: a0TDVpEP1Sch4ZQRpa6Hif9solTXHC8HkIF8
 Enter Input: Crash Detected: Buffer Overflow Detected
 Enter Input: 
 
